@@ -1,0 +1,15 @@
+{
+  "name": "theyagya/food",
+  "description": "the all new package developmwnt.",
+  "autoload": {
+    "psr-4": {
+      "Theyagya\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "theyagya"
+    }
+  ],
+  "require": {}
+}
